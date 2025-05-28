@@ -1,4 +1,4 @@
-# ZeroShot SegmentAndSticker
+# ZeroShot Segment-And-Sticker
 This repository involves research regarding a proposed combination of an OwlViT model and a MetaSAM model to take an image and natural language (text) input, and segment out the requested aspect. This research has been detailed in a first-draft CVPR format research paper contributed to by Jai Bobal, Mridul Purkayastha and Vedant Gawande for UMD's Computer Vision (CMSC426) final project. We utilize HuggingFace transformers to access the OwlVit model and github to access the MetaSAM model. This README is a summary of our research paper and code.
 
 ## The hyperparameter of focus
